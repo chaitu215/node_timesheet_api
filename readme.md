@@ -1,3 +1,5 @@
+to install dependencies npm install 
+
 # to start application npm run start 
 #
 # example 
@@ -12,3 +14,6 @@
 # to get data : http://localhost:3000/api/get_data
 
 # all the time data stores in mainData.json
+# node_timesheet_api
+
+
