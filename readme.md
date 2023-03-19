@@ -1,4 +1,4 @@
-to install dependencies npm install 
+to install dependencies : npm install 
 
 # to start application npm run start 
 #
